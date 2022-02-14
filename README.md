@@ -1,4 +1,5 @@
 #About the Project
+
 It is a web application made using MERN Stack. It is used for making and storing notes with title, description and tag.
 It allows us register ourself with ourunique email id and all the notes are password secured, only user with correct id and password can access the notes. These notes can be edited, deleted and more notes can be added as required.
 It consist of two parts - Frontend and Backend.
